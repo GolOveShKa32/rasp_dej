@@ -1,1 +1,25 @@
-{}
+{
+  items:
+  {
+    [key]:
+    {
+      name: "",
+      value: 0,
+      pass: 0
+    }
+  },
+  data:
+  {
+    rasp: [],
+    working:{DATA: []},
+    table:
+    {
+      DATA:
+      {
+        key: "",
+        pass: "",
+        text: ""
+      }
+    }
+  }
+}
